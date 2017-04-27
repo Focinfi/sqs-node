@@ -7,10 +7,11 @@ import (
 )
 
 func main() {
+	addr := os.Getenv("SQS_NODE_ADDR")
 	masterAddr := os.Getenv("SQS_MASTER_ADDR")
-	if masterAddr == "" {
-		panic("Need SQS_MASTER_ADDR environment parameters")
+	if addr == "" || masterAddr == "" {
+		panic("Need SQS_NODE_ADDR and SQS_MASTER_ADDR environment parameters")
 	}
 
-	node.New(":8080", masterAddr).Start()
+	node.New(addr, 8081, masterAddr).Start()
 }
