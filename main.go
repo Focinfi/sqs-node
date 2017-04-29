@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/Focinfi/sqs/node"
+	"github.com/Focinfi/gosqs/node"
 )
 
 func main() {
