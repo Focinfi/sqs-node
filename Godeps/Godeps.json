@@ -9,76 +9,80 @@
 			"Rev": "b26d9c308763d68093482582cea63d69be07a0f0"
 		},
 		{
+			"ImportPath": "github.com/Focinfi/gosqs/admin",
+			"Rev": "088bf43ef1b062e5507ecb629896757b88c24749"
+		},
+		{
 			"ImportPath": "github.com/Focinfi/gosqs/agent",
-			"Rev": "06ab1aa69c1aa4e0c380ead43d5cf4dfcc1da1a6"
+			"Rev": "088bf43ef1b062e5507ecb629896757b88c24749"
 		},
 		{
 			"ImportPath": "github.com/Focinfi/gosqs/config",
-			"Rev": "06ab1aa69c1aa4e0c380ead43d5cf4dfcc1da1a6"
+			"Rev": "088bf43ef1b062e5507ecb629896757b88c24749"
 		},
 		{
 			"ImportPath": "github.com/Focinfi/gosqs/errors",
-			"Rev": "06ab1aa69c1aa4e0c380ead43d5cf4dfcc1da1a6"
+			"Rev": "088bf43ef1b062e5507ecb629896757b88c24749"
 		},
 		{
 			"ImportPath": "github.com/Focinfi/gosqs/external",
-			"Rev": "06ab1aa69c1aa4e0c380ead43d5cf4dfcc1da1a6"
+			"Rev": "088bf43ef1b062e5507ecb629896757b88c24749"
 		},
 		{
 			"ImportPath": "github.com/Focinfi/gosqs/log",
-			"Rev": "06ab1aa69c1aa4e0c380ead43d5cf4dfcc1da1a6"
+			"Rev": "088bf43ef1b062e5507ecb629896757b88c24749"
 		},
 		{
 			"ImportPath": "github.com/Focinfi/gosqs/models",
-			"Rev": "06ab1aa69c1aa4e0c380ead43d5cf4dfcc1da1a6"
+			"Rev": "088bf43ef1b062e5507ecb629896757b88c24749"
 		},
 		{
 			"ImportPath": "github.com/Focinfi/gosqs/node",
-			"Rev": "06ab1aa69c1aa4e0c380ead43d5cf4dfcc1da1a6"
+			"Rev": "088bf43ef1b062e5507ecb629896757b88c24749"
 		},
 		{
 			"ImportPath": "github.com/Focinfi/gosqs/storage",
-			"Rev": "06ab1aa69c1aa4e0c380ead43d5cf4dfcc1da1a6"
+			"Rev": "088bf43ef1b062e5507ecb629896757b88c24749"
 		},
 		{
 			"ImportPath": "github.com/Focinfi/gosqs/storage/etcd",
-			"Rev": "06ab1aa69c1aa4e0c380ead43d5cf4dfcc1da1a6"
+			"Rev": "088bf43ef1b062e5507ecb629896757b88c24749"
 		},
 		{
 			"ImportPath": "github.com/Focinfi/gosqs/storage/gomap",
-			"Rev": "06ab1aa69c1aa4e0c380ead43d5cf4dfcc1da1a6"
+			"Rev": "088bf43ef1b062e5507ecb629896757b88c24749"
 		},
 		{
 			"ImportPath": "github.com/Focinfi/gosqs/storage/oncekv",
-			"Rev": "06ab1aa69c1aa4e0c380ead43d5cf4dfcc1da1a6"
+			"Rev": "088bf43ef1b062e5507ecb629896757b88c24749"
 		},
 		{
 			"ImportPath": "github.com/Focinfi/gosqs/util/fmtutil",
-			"Rev": "06ab1aa69c1aa4e0c380ead43d5cf4dfcc1da1a6"
+			"Rev": "088bf43ef1b062e5507ecb629896757b88c24749"
 		},
 		{
 			"ImportPath": "github.com/Focinfi/gosqs/util/githubutil",
-			"Rev": "06ab1aa69c1aa4e0c380ead43d5cf4dfcc1da1a6"
+			"Rev": "088bf43ef1b062e5507ecb629896757b88c24749"
 		},
 		{
 			"ImportPath": "github.com/Focinfi/gosqs/util/httputil",
-			"Rev": "06ab1aa69c1aa4e0c380ead43d5cf4dfcc1da1a6"
+			"Rev": "088bf43ef1b062e5507ecb629896757b88c24749"
 		},
 		{
 			"ImportPath": "github.com/Focinfi/gosqs/util/psutil",
-			"Rev": "06ab1aa69c1aa4e0c380ead43d5cf4dfcc1da1a6"
+			"Rev": "088bf43ef1b062e5507ecb629896757b88c24749"
 		},
 		{
 			"ImportPath": "github.com/Focinfi/gosqs/util/strconvutil",
-			"Rev": "06ab1aa69c1aa4e0c380ead43d5cf4dfcc1da1a6"
+			"Rev": "088bf43ef1b062e5507ecb629896757b88c24749"
 		},
 		{
 			"ImportPath": "github.com/Focinfi/gosqs/util/token",
-			"Rev": "06ab1aa69c1aa4e0c380ead43d5cf4dfcc1da1a6"
+			"Rev": "088bf43ef1b062e5507ecb629896757b88c24749"
 		},
 		{
 			"ImportPath": "github.com/Focinfi/gosqs/util/urlutil",
-			"Rev": "06ab1aa69c1aa4e0c380ead43d5cf4dfcc1da1a6"
+			"Rev": "088bf43ef1b062e5507ecb629896757b88c24749"
 		},
 		{
 			"ImportPath": "github.com/Focinfi/oncekv/admin",
@@ -169,6 +173,11 @@
 			"ImportPath": "github.com/gin-gonic/gin/render",
 			"Comment": "v1.0rc1-266-g542be2f",
 			"Rev": "542be2fe77724f800fcab7eb6c01a4e597fb8506"
+		},
+		{
+			"ImportPath": "github.com/go-gomail/gomail",
+			"Comment": "2.0.0-23-g81ebce5",
+			"Rev": "81ebce5c23dfd25c6c67194b37d3dd3f338c98b1"
 		},
 		{
 			"ImportPath": "github.com/go-ole/go-ole",
